@@ -1,4 +1,4 @@
-## Hi there 👋
+hellauuurrr 
 
 <img src="https://chiprevvington.neocities.org/images/mitypet.gif">
 <!--
