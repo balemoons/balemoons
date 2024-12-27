@@ -2,7 +2,7 @@
 
 <img src="https://chiprevvington.neocities.org/images/favicon.gif"> hii, hello, its me, github user balemoons
 
-<img src="https://chiprevvington.neocities.org/images/mitypet.gif">
+<img src="https://chiprevvington.neocities.org/images/mitypet.gif" height=40px>
 <!--
 i really liked it when github user balemoons said its balemooning time and balemooned all over the place?
 -->
